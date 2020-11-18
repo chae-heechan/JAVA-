@@ -1,5 +1,5 @@
 public class EqualsEx {
-	public static void mai(String [] args) {
+	public static void main(String [] args) {
 		Rect a = new Rect(2,3);
 		Rect b = new Rect(3,2);
 		Rect c = new Rect(3,4);
