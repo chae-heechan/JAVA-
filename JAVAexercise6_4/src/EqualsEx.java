@@ -10,4 +10,4 @@ public class EqualsEx {
 		if(b.equals(c))
 			System.out.println("b is equal to c");
 	}
-}
+} 
