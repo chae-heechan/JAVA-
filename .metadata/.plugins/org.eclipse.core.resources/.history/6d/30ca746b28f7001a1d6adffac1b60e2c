@@ -1,0 +1,12 @@
+import jav.util.Scanner;
+public class GradingSwitch {
+
+	public static void main(String[] args) {
+		Scanner scanner = new java.util.Scanner(System.in);
+		
+		char grade;
+		System.out.print("점수를 입력하시오(0~100): );
+
+	}
+
+}

@@ -1,0 +1,6 @@
+public class EqualsEx {
+	public static void mai(String [] args) {
+		Rect a = new Rect(2,3);
+		Rect b = new Rect(3,2);
+	}
+}
